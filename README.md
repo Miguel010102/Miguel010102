@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Miguel</h1>
 <h3 align="center">A full-stack developer, still studying.</h3>
 
-- 🔭 I’m currently working on [Late Night Melnacholy: Reimagined](https://gamejolt.com/games/Da_sad_Mouse_Stylized/654814)
+- 🔭 I’m currently working on [Late Night Melancholy: Reimagined](https://gamejolt.com/games/Da_sad_Mouse_Stylized/654814)
 
 - 🌱 I’m currently learning **HaxeFlixel, ML (Python)**
 
