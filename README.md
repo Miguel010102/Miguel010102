@@ -9,7 +9,7 @@
 
 <h3 align="left">Contact me on Discord: miguelitsout</h3>
 
-<h3 align="left">Skills:</h3>
+<h3 align="center">Skills:</h3>
 <p align="center">
 <a href="https://skillicons.dev">
 <img src ="https://skillicons.dev/icons?i=haxe,haxeflixel,cpp,html,css,js&perline=3"/>
